@@ -1,0 +1,37 @@
+# Loops-java
+
+# 🔁 Java Loops Demonstration
+
+This program `l.java` shows **all basic looping techniques in Java** — including `while`, `do-while`, `for`, infinite loops, and nested loops — with clear examples and explanations.
+
+---
+
+## 🧠 Concepts Covered
+
+### 1️⃣ `do-while` Loop
+- Executes **at least once**, even if the condition is false.
+- Condition is checked **after** the loop body.
+
+```java
+int i = 1;
+do {
+    System.out.println("hii");
+    i++;
+} while (i > 5);
+```
+```infinte loop
+int p = 1;
+while (true) {
+    System.out.println("nani");
+    p++;
+    if (p > 3) break;
+}
+```
+```for loop
+for (int o = 1; o < 5; o++) {
+    System.out.println("DAY " + o);
+    for (int h = 9; h < 18; h++) {
+        System.out.println(" " + h + "-" + (h + 1));
+    }
+}
+```
