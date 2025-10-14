@@ -35,3 +35,21 @@ for (int o = 1; o < 5; o++) {
     }
 }
 ```
+
+# 🔁 Nested Loops in Java
+
+## 🧩 What Are Nested Loops?
+
+A **nested loop** means one loop is **inside another loop**.  
+For every single iteration of the **outer loop**, the **inner loop** runs completely.
+
+🧠 Common use cases:
+- Pattern printing (stars, numbers)
+- Working with **2D arrays**
+- Multiplication tables
+- Comparing elements in nested structures
+
+---
+
+ 
+
