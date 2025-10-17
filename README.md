@@ -35,6 +35,7 @@ for (int o = 1; o < 5; o++) {
     }
 }
 ```
+**based on given condition it takes how many times to loop the data , if you know exactly how many times to loop use **FOR** loop or for unstandard loop which you dont know exactly how many times to loop use   **WHILE** loop and use **DO WHILE** loop when you want to execute the loop once even the condition is false 
 
 # 🔁 Nested Loops in Java
 
